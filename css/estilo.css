@@ -71,6 +71,10 @@ nav.navbar-transpatente {
 	color: black;
 }
 
+.carousel-control-next, .carousel-control-prev{	
+	width: 5%;
+}
+
 /* Extrutura de conteúdos 
 ----------------------------*/
 .caixa {
